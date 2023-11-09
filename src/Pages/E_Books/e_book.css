@@ -1,0 +1,9 @@
+.book_parent {
+    background-color: rgb(255, 255, 255);
+}
+
+.book_cont {
+    background: grey;
+    height: 350px !important;
+    display: block;
+}
